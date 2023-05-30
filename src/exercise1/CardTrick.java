@@ -77,6 +77,7 @@ Random random = new Random();
         System.out.println("-- Riding my motorcycle");
 
         System.out.println();
+        //i am finish with Exercise1
         
     
     }
