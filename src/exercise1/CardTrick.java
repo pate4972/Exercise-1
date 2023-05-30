@@ -62,7 +62,7 @@ Random random = new Random();
         System.out.println("Congratulations, you guessed right!");
         System.out.println();
         
-        System.out.println("My name is Paul, but you can call me prof, Paul or sir");
+        System.out.println("My name is Mohamedsaif, but you can call me prof, Moh or sir");
         System.out.println();
         
         System.out.println("My career ambitions:");
@@ -72,7 +72,7 @@ Random random = new Random();
 
         System.out.println("My hobbies:");
         System.out.println("-- Investing");
-        System.out.println("-- Cooking");
+        System.out.println("-- trecking");
         System.out.println("-- Reading/Watching TV");
         System.out.println("-- Riding my motorcycle");
 
